@@ -1,4 +1,4 @@
-#🎓💻 Projet : Exploration des Algorithmes & Structures de Données
+# 🎓💻 Projet : Exploration des Algorithmes & Structures de Données
 
 Ce projet académique vise à explorer et comprendre en profondeur les **structures de données** et les **algorithmes**, à travers une approche **théorique**, **pratique** et **visuelle**.
 
