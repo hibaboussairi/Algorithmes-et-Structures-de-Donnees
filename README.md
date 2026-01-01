@@ -41,11 +41,6 @@ Ce projet académique vise à explorer et comprendre en profondeur les **structu
 ## 🖥️ Technologies utilisées
 - **Python** (Tkinter pour l’interface graphique)
 - **Langage C** (implémentation des algorithmes avec une interface simple)
-<p align="center">
-  <a href="https://github.com/hibaboussairi/Monprojet/releases">
-    <img src="https://img.shields.io/badge/Télécharger-Releases-blue?style=for-the-badge">
-  </a>
-</p>
 ## ⬇️ Téléchargement
 
 | Version | Système | Lien |
@@ -53,5 +48,10 @@ Ce projet académique vise à explorer et comprendre en profondeur les **structu
 | 💻 Version C [Télécharger](https://github.com/hibaboussairi/Monprojet/releases/download/v1.0/Version_C.zip) |
 | 💻 Version Python  [Télécharger](https://github.com/hibaboussairi/Monprojet/releases/download/v1.0/Version_Python.zip) |
 | 📦 Projet complet | Toutes versions | [Releases](https://github.com/hibaboussairi/Monprojet/releases/download/v1.0/Projetcomplet.zip) |
+<p align="center">
+  <a href="https://github.com/hibaboussairi/Monprojet/releases">
+    <img src="https://img.shields.io/badge/Télécharger-Releases-blue?style=for-the-badge">
+  </a>
+</p>
 
 
