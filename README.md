@@ -68,7 +68,7 @@ Ce projet académique vise à explorer et comprendre en profondeur les **structu
 
 **HIBA BOUSSAIRI**
 
-Étudiante en Genie informatique – Projet académique en  
+Étudiante en Licence Genie informatique – Projet académique en  
 **Algorithmes & Structures de Données**
 
 <p align="left">
