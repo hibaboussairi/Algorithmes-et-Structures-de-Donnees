@@ -1,6 +1,7 @@
 # 🎓💻 Projet : Exploration des Algorithmes & Structures de Données
 
 Ce projet académique vise à explorer et comprendre en profondeur les **structures de données** et les **algorithmes**, à travers une approche **théorique**, **pratique** et **visuelle**.
+<img width="824" height="483" alt="acceuil" src="https://github.com/user-attachments/assets/12ba7e67-1fc7-409b-84cb-648158b3bfe7" />
 
 ## 🎯 Objectifs
 - Comprendre le fonctionnement interne des structures de données
@@ -17,12 +18,14 @@ Ce projet académique vise à explorer et comprendre en profondeur les **structu
   - Shell Sort
   - Quick Sort
 - Comparaison des performances
+<img width="952" height="495" alt="tableau" src="https://github.com/user-attachments/assets/0b4fe5f7-5c6e-4c8b-bb31-14558572732d" />
 
 ### 🔗 Listes chaînées
 - Insertion
 - Suppression
 - Modification
 - Tri
+<img width="959" height="493" alt="liste" src="https://github.com/user-attachments/assets/ac4c0685-a760-427d-8d00-9d9fdbdeff4a" />
 
 ### 🌳 Arbres
 - Arbres binaires
@@ -31,12 +34,14 @@ Ce projet académique vise à explorer et comprendre en profondeur les **structu
   - Pré-ordre
   - Post-ordre
   - Parcours en profondeur
+<img width="950" height="492" alt="arbre" src="https://github.com/user-attachments/assets/66e47d13-6220-46cf-9f07-34318c51667b" />
 
 ### 🕸️ Graphes
 - Graphes orientés et non orientés
 - Algorithmes de plus court chemin :
   - Dijkstra
   - Bellman-Ford
+<img width="952" height="489" alt="graphe" src="https://github.com/user-attachments/assets/95ef354c-e99a-4c69-a074-3145a00e9c4d" />
 
 ## 🖥️ Technologies utilisées
 - **Python** (Tkinter pour l’interface graphique)
